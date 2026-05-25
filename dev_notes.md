@@ -51,3 +51,14 @@ CMD:
 type nul > dev_notes.md
 
 copy nul dev_notes.md
+
+
+
+
+
+---------------------------------------------------------------------
+
+# lesson1 folder is a course by : freeCodeCamp- youtube (Intermediate Python Programming Course)
+
+
+# concatenating only works with strings
